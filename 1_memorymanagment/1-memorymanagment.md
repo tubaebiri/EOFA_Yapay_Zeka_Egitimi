@@ -1,0 +1,1 @@
+1. Haftanın ödevi gitbook linki = https://tubaebiri.gitbook.io/mynotes/haftalar/1.hafta-memorymanagment
